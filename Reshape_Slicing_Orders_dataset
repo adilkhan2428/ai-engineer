@@ -1,0 +1,35 @@
+# It is the Shopify Dataset Contain 12 orders * 5 columns = 60 values
+# | Column Index | Meaning      |
+# | ------------ | ------------ |
+# | 0            | Order ID     |
+# | 1            | Price        |
+# | 2            | Quantity     |
+# | 3            | Discount (%) |
+# | 4            | Fraud Score  |
+# This is dataset
+import numpy as np
+orders = np.array([
+1001, 250, 2, 10, 15,
+1002, 120, 1, 0, 5,
+1003, 980, 4, 15, 90,
+1004, 75, 1, 0, 3,
+1005, 430, 3, 5, 25,
+1006, 50, 1, 0, 2,
+1007, 620, 2, 20, 70,
+1008, 315, 5, 10, 18,
+1009, 890, 6, 25, 95,
+1010, 145, 2, 5, 10,
+1011, 510, 4, 15, 40,
+1012, 260, 3, 0, 12
+])
+# Step 1: reshaping into 12 row and 5 columns
+orders = orders.reshape(12, 5)
+print(f"Reshape to 2D: {orders.shape}")
+# Step 2:
+print(f"Price: {orders[:, 1]}")
+# Step 3:
+print(f"Fraud Score: {orders[:, 4]}")
+# Step 4:
+print(f"Last five Orders:  {orders[7: 12:1]}")
+# Step 5:
+print(f"Reverse entire dataset: {orders[::-1]}")
