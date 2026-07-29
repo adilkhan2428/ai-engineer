@@ -4,3 +4,4 @@ __pycache__/
 *.pyc 
 datasets/
 files_save_test/
+.vscode/
