@@ -1,7 +1,7 @@
 import pandas as pd
 
 # 1. Load the dataset (update path if running locally vs Google Colab)
-# df = pd.read_csv("PATH")
+# df = pd.read_csv("/content/drive/MyDrive/Pandas/shopify_orders_sample.csv")
 df = pd.read_csv("shopify_orders_sample.csv")
 
 print("=== 1. Index Manipulation (.set_index & .loc / .iloc) ===")
