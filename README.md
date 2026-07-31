@@ -6,11 +6,16 @@ This repository contains my hands-on projects while following my AI Engineering 
 
 ### NumPy
 
-- Exercises
-- Shopify Analytics Capstone
+Exercises
+
+Shopify Analytics Capstone
+
+### pandas
+
+Exercises
+
 
 Upcoming:
 
-- Pandas
 - Matplotlib
 - Seaborn
