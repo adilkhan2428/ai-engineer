@@ -1,4 +1,3 @@
-
 # Shopify Sales Analytics — Pandas Capstone
 
 A realistic e-commerce sales analytics project built with **Python and Pandas**.
@@ -92,9 +91,7 @@ CSV / Parquet / Charts / Excel / Summary
 
 The final project produces a processed sales dataset, business analysis datasets, visualizations, and an executive reporting package from the original raw e-commerce data.
 
-Yes. Add a concise **Concepts Used** section. Based on the capstone we built, I’d write it like this:
-
-## Concepts Used
+**Concepts Used**
 
 ### Pandas
 
