@@ -1,0 +1,21 @@
+Order ID,Order Date,Customer ID,Product ID,Units Sold,Revenue,Order Status,Payment Method,Customer Name,Region,Customer Segment,Product Name,Category,Unit Cost,Total Cost,Profit,Profit Margin %,Year,Month,Month Name,Day of Week,Customer Total Revenue,Order Contribution %,Segment Total Revenue,Segment Revenue Share %
+10001,2026-01-03,101,501,2.0,2400.0,Completed,Card,Ali,North,Premium,Wireless Earphones,Electronics,650.0,1300.0,1100.0,45.83333333333333,2026,1,January,Saturday,3600.0,66.66666666666666,16850.0,36.630434782608695
+10002,2026-01-05,102,502,1.0,1800.0,Completed,COD,Sara,South,Standard,USB-C Charger,Electronics,700.0,700.0,1100.0,61.111111111111114,2026,1,January,Monday,6500.0,27.692307692307693,29150.0,63.3695652173913
+10003,2026-01-07,103,503,3.0,2700.0,Completed,Card,Ahmed,West,Premium,Smart Watch,Electronics,1200.0,3600.0,-900.0,-33.33333333333333,2026,1,January,Wednesday,4500.0,60.0,16850.0,36.630434782608695
+10004,2026-01-12,104,501,1.0,1200.0,Completed,Card,Maria,North,Standard,Wireless Earphones,Electronics,650.0,650.0,550.0,45.83333333333333,2026,1,January,Monday,3100.0,38.70967741935484,29150.0,63.3695652173913
+10006,2026-01-22,105,505,1.0,950.0,Completed,COD,Hassan,South,Standard,Mechanical Keyboard,Accessories,1100.0,1100.0,-150.0,-15.789473684210526,2026,1,January,Thursday,950.0,100.0,29150.0,63.3695652173913
+10007,2026-02-02,106,506,2.0,1600.0,Completed,Card,Ayesha,West,Premium,Power Bank,Electronics,600.0,1200.0,400.0,25.0,2026,2,February,Monday,1600.0,100.0,16850.0,36.630434782608695
+10008,2026-02-06,107,502,4.0,7200.0,Completed,Card,Bilal,North,Standard,USB-C Charger,Electronics,700.0,2800.0,4400.0,61.111111111111114,2026,2,February,Friday,7200.0,100.0,29150.0,63.3695652173913
+10009,2026-02-11,102,507,1.0,1100.0,Completed,Wallet,Sara,South,Standard,Wireless Mouse,Accessories,350.0,350.0,750.0,68.18181818181817,2026,2,February,Wednesday,6500.0,16.923076923076923,29150.0,63.3695652173913
+10011,2026-02-24,109,509,1.0,1400.0,Completed,COD,Usman,East,Standard,Phone Case,Accessories,150.0,150.0,1250.0,89.28571428571429,2026,2,February,Tuesday,1400.0,100.0,29150.0,63.3695652173913
+10012,2026-02-28,103,503,2.0,1800.0,Completed,Card,Ahmed,West,Premium,Smart Watch,Electronics,1200.0,2400.0,-600.0,-33.33333333333333,2026,2,February,Saturday,4500.0,40.0,16850.0,36.630434782608695
+10013,2026-03-03,110,510,3.0,3300.0,Completed,Card,Zara,North,Premium,Gaming Headset,Electronics,1300.0,3900.0,-600.0,-18.181818181818183,2026,3,March,Tuesday,3300.0,100.0,16850.0,36.630434782608695
+10014,2026-03-08,111,511,1.0,2100.0,Completed,Wallet,Hamza,West,Standard,Webcam,Electronics,800.0,800.0,1300.0,61.904761904761905,2026,3,March,Sunday,2100.0,100.0,29150.0,63.3695652173913
+10015,2026-03-12,101,501,1.0,1200.0,Completed,Card,Ali,North,Premium,Wireless Earphones,Electronics,650.0,650.0,550.0,45.83333333333333,2026,3,March,Thursday,3600.0,33.33333333333333,16850.0,36.630434782608695
+10016,2026-03-17,112,512,2.0,1800.0,Completed,COD,Noor,South,Standard,USB Hub,Accessories,450.0,900.0,900.0,50.0,2026,3,March,Tuesday,1800.0,100.0,29150.0,63.3695652173913
+10018,2026-03-25,104,504,2.0,1900.0,Completed,Card,Maria,North,Standard,Laptop Stand,Accessories,500.0,1000.0,900.0,47.368421052631575,2026,3,March,Wednesday,3100.0,61.29032258064516,29150.0,63.3695652173913
+10019,2026-03-27,114,514,3.0,3900.0,Completed,Wallet,Hiba,North,Standard,Portable SSD,Electronics,2100.0,6300.0,-2400.0,-61.53846153846154,2026,3,March,Friday,3900.0,100.0,29150.0,63.3695652173913
+10020,2026-03-29,115,505,1.0,1050.0,Completed,COD,Yusuf,South,Premium,Mechanical Keyboard,Accessories,1100.0,1100.0,-50.0,-4.761904761904762,2026,3,March,Sunday,1050.0,100.0,16850.0,36.630434782608695
+10021,2026-04-02,116,515,2.0,2200.0,Completed,Card,Mariam,West,Standard,Smartphone Holder,Accessories,300.0,600.0,1600.0,72.72727272727273,2026,4,April,Thursday,2200.0,100.0,29150.0,63.3695652173913
+10022,2026-04-06,102,502,2.0,3600.0,Completed,Card,Sara,South,Standard,USB-C Charger,Electronics,700.0,1400.0,2200.0,61.111111111111114,2026,4,April,Monday,6500.0,55.38461538461539,29150.0,63.3695652173913
+10024,2026-04-15,118,999,2.0,2800.0,Completed,Wallet,Amina,North,Premium,,,,,,,2026,4,April,Wednesday,2800.0,100.0,16850.0,36.630434782608695

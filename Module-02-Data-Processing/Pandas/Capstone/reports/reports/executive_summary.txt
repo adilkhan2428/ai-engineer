@@ -1,0 +1,9 @@
+SHOPIFY SALES ANALYTICS — EXECUTIVE SUMMARY
+=======================================================
+
+Top revenue product: USB-C Charger ($12,600.00)
+Most profitable product: USB-C Charger ($7,700.00)
+Worst product by profit: Portable SSD ($-2,400.00)
+Best region by profit: South ($4,750.00)
+Largest customer segment: Standard ($29,150.00)
+Most profitable payment method: Card ($9,600.00)

@@ -1,0 +1,14 @@
+Product Name,Category,Total_Revenue,Total_Units_Sold,Number_of_Orders,Average_Revenue_per_Order,Revenue_Rank
+USB-C Charger,Electronics,12600.0,7.0,3,4200.0,1.0
+Wireless Earphones,Electronics,4800.0,4.0,3,1600.0,2.0
+Smart Watch,Electronics,4500.0,5.0,2,2250.0,3.0
+Portable SSD,Electronics,3900.0,3.0,1,3900.0,4.0
+Gaming Headset,Electronics,3300.0,3.0,1,3300.0,5.0
+Smartphone Holder,Accessories,2200.0,2.0,1,2200.0,6.0
+Webcam,Electronics,2100.0,1.0,1,2100.0,7.0
+Mechanical Keyboard,Accessories,2000.0,2.0,2,1000.0,8.0
+Laptop Stand,Accessories,1900.0,2.0,1,1900.0,9.0
+USB Hub,Accessories,1800.0,2.0,1,1800.0,10.0
+Power Bank,Electronics,1600.0,2.0,1,1600.0,11.0
+Phone Case,Accessories,1400.0,1.0,1,1400.0,12.0
+Wireless Mouse,Accessories,1100.0,1.0,1,1100.0,13.0

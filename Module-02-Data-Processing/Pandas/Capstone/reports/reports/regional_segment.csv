@@ -1,0 +1,8 @@
+Region,Customer Segment,Total_Revenue,Total_Profit,Number_of_Orders,Region Total Revenue,Revenue Share Within Region %
+East,Standard,1400.0,1250.0,1,1400.0,100.0
+North,Standard,14200.0,3450.0,4,23900.0,59.41422594142259
+North,Premium,9700.0,1050.0,4,23900.0,40.58577405857741
+South,Standard,9250.0,4800.0,5,10300.0,89.80582524271846
+South,Premium,1050.0,-50.0,1,10300.0,10.194174757281553
+West,Premium,6100.0,-1100.0,3,10400.0,58.65384615384615
+West,Standard,4300.0,2900.0,2,10400.0,41.34615384615385

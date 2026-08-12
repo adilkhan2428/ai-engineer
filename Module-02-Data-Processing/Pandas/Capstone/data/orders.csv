@@ -1,0 +1,21 @@
+Order ID,Order Date,Customer ID,Product ID,Units Sold,Revenue,Order Status,Payment Method,Customer Name,Region,Customer Segment
+10001,2026-01-03,101,501,2,2400.0,Completed,Card,Ali,North,Premium
+10002,2026-01-05,102,502,1,1800.0,Completed,COD,Sara,South,Standard
+10003,2026-01-07,103,503,3,2700.0,Completed,Card,Ahmed,West,Premium
+10004,2026-01-12,104,501,1,1200.0,Completed,Card,Maria,North,Standard
+10006,2026-01-22,105,505,1,950.0,Completed,COD,Hassan,South,Standard
+10007,2026-02-02,106,506,2,1600.0,Completed,Card,Ayesha,West,Premium
+10008,2026-02-06,107,502,4,7200.0,Completed,Card,Bilal,North,Standard
+10009,2026-02-11,102,507,1,1100.0,Completed,Wallet,Sara,South,Standard
+10011,2026-02-24,109,509,1,1400.0,Completed,COD,Usman,East,Standard
+10012,2026-02-28,103,503,2,1800.0,Completed,Card,Ahmed,West,Premium
+10013,2026-03-03,110,510,3,3300.0,Completed,Card,Zara,North,Premium
+10014,2026-03-08,111,511,1,2100.0,Completed,Wallet,Hamza,West,Standard
+10015,2026-03-12,101,501,1,1200.0,Completed,Card,Ali,North,Premium
+10016,2026-03-17,112,512,2,1800.0,Completed,COD,Noor,South,Standard
+10018,2026-03-25,104,504,2,1900.0,Completed,Card,Maria,North,Standard
+10019,2026-03-27,114,514,3,3900.0,Completed,Wallet,Hiba,North,Standard
+10020,2026-03-29,115,505,1,1050.0,Completed,COD,Yusuf,South,Premium
+10021,2026-04-02,116,515,2,2200.0,Completed,Card,Mariam,West,Standard
+10022,2026-04-06,102,502,2,3600.0,Completed,Card,Sara,South,Standard
+10024,2026-04-15,118,999,2,2800.0,Completed,Wallet,Amina,North,Premium

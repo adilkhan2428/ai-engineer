@@ -1,0 +1,16 @@
+Customer ID,Customer Name,Region,Customer Segment,Total_Revenue,Total_Profit,Number_of_Orders,Average_Revenue_per_Order,Profit Margin %
+107,Bilal,North,Standard,7200.0,4400.0,1,7200.0,61.111111111111114
+102,Sara,South,Standard,6500.0,4050.0,3,2166.6666666666665,62.30769230769231
+101,Ali,North,Premium,3600.0,1650.0,2,1800.0,45.83333333333333
+116,Mariam,West,Standard,2200.0,1600.0,1,2200.0,72.72727272727273
+104,Maria,North,Standard,3100.0,1450.0,2,1550.0,46.774193548387096
+111,Hamza,West,Standard,2100.0,1300.0,1,2100.0,61.904761904761905
+109,Usman,East,Standard,1400.0,1250.0,1,1400.0,89.28571428571429
+112,Noor,South,Standard,1800.0,900.0,1,1800.0,50.0
+106,Ayesha,West,Premium,1600.0,400.0,1,1600.0,25.0
+118,Amina,North,Premium,2800.0,0.0,1,2800.0,0.0
+115,Yusuf,South,Premium,1050.0,-50.0,1,1050.0,-4.761904761904762
+105,Hassan,South,Standard,950.0,-150.0,1,950.0,-15.789473684210526
+110,Zara,North,Premium,3300.0,-600.0,1,3300.0,-18.181818181818183
+103,Ahmed,West,Premium,4500.0,-1500.0,2,2250.0,-33.33333333333333
+114,Hiba,North,Standard,3900.0,-2400.0,1,3900.0,-61.53846153846154

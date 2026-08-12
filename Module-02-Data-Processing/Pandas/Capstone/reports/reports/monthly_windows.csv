@@ -1,0 +1,5 @@
+Month,Total_Revenue,Total_Profit,Number_of_Orders,Rolling 2 Month Revenue,Rolling 2 Month Average Revenue,Cumulative Revenue
+1,9050.0,1700.0,5,9050.0,9050.0,9050.0
+2,13100.0,6200.0,5,22150.0,11075.0,22150.0
+3,15250.0,600.0,7,28350.0,14175.0,37400.0
+4,8600.0,3800.0,3,23850.0,11925.0,46000.0
